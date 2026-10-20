@@ -32,7 +32,7 @@ If you find our work useful, please cite:
   title={Few Pixels, Fragile Faithfulness: Evaluating Visual Explanations under Sparse Perturbations},
   author={Khoa Tran, Viet-Hang Duong, Ngoc Hoang Luong},
   booktitle={International Conference on Multimedia Modeling (MM)},
-  year={2026},
+  year={2027},
   publisher = {Springer}
 }
 
