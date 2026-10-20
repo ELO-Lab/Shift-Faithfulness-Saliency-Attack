@@ -29,7 +29,6 @@ python run_batch.py \
 If you find our work useful, please cite:
 ```bibtex
 @inproceedings{khoatn-mmm2027,
-
   title={Few Pixels, Fragile Faithfulness: Evaluating Visual Explanations under Sparse Perturbations},
   author={Khoa Tran, Viet-Hang Duong, Ngoc Hoang Luong},
   booktitle={International Conference on Multimedia Modeling (MM)},
